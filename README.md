@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/59962413?v=4"  />
+<img align="right" height="150" src="https://drive.google.com/file/d/1Bq_-k0Z5NWQlneWwu3y-JEgjTQhSL8CI/view"  />
 
 ###
 
@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/zeus_moreiraa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="   <a href="discordapp.com/users/244161720258396160" target="_blank">
+  <a href="discordapp.com/users/244161720258396160" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:zeus.moreira111@gmail.com" target="_blank">
